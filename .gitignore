@@ -49,6 +49,8 @@ fabric.properties
 # *.iml
 # modules.xml
 
+.DS_Store
+
 # C extensions
 *.so
 
